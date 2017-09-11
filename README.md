@@ -26,3 +26,7 @@ You can also follow me on Twitter, I post regular updates of programming project
 Twitter: https://twitter.com/Ash_Logic
 
 See you around! - _Mannjamin / The Mann_
+
+### XSwing 1.6.5 External Jar File.
+This was used to display the promt message within the JTextFields.
+You can download the External Jar File here: http://www.java2s.com/Code/Jar/s/Downloadswingxall165jar.htm
